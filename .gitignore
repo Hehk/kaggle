@@ -1,0 +1,4 @@
+env
+
+competitions/**/data
+competitions/**/.ipynb_checkpoints
